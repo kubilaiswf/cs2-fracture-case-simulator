@@ -1,6 +1,7 @@
 # CS2 Fracture Case Opening Simulator
 A console-based CS2 cracking case opening simulator written in python for your hobby. Stay away from gambling, boys. Keep it Halal.
-in ohnePixel we trust.
+
+-*in ohnePixel we trust.*
 
 ## Features
 - Open cases with accurate drop rates
